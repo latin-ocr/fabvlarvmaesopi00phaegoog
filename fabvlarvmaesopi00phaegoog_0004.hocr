@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fabvlarvmaesopi00phaegoog_0004.png"; bbox 0 0 2572 4020; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 152 1336 1194 1763">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 152 1336 1194 1763">
+     <span class='ocr_line' id='line_1_1' title="bbox 152 1336 1194 1577; baseline -0.002 -68"><span class='ocrx_word' id='word_1_1' title='bbox 152 1570 155 1577; x_wconf 82' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 317 1336 1047 1511; x_wconf 41' lang='lat' dir='ltr'>PHAEDRI*</span> <span class='ocrx_word' id='word_1_3' title='bbox 1119 1418 1194 1529; x_wconf 76' lang='lat' dir='ltr'><em>g</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 321 1650 905 1763; baseline -0.002 -44"><span class='ocrx_word' id='word_1_4' title='bbox 321 1732 326 1739; x_wconf 50' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 369 1650 626 1720; x_wconf 81' lang='lat' dir='ltr'><strong>AVGVSTI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 671 1652 905 1763; x_wconf 71' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1846 1083 1989">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1846 1083 1989">
+     <span class='ocr_line' id='line_1_3' title="bbox 191 1846 1083 1989; baseline -0.002 -47"><span class='ocrx_word' id='word_1_7' title='bbox 191 1851 568 1949; x_wconf 79' lang='lat' dir='ltr'><strong>FABVLAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 635 1846 1083 1989; x_wconf 64' lang='lat' dir='ltr'>Asssop1AE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1290 4020">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1290 4020">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1290 4020; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1290 4020; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
